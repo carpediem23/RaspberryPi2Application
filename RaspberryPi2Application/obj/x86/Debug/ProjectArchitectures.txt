@@ -1,0 +1,1 @@
+C:\Users\alptu\Documents\Projects\RaspberryPi2Application\RaspberryPi2Application\RaspberryPi2Application.csproj;x86
